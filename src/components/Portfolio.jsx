@@ -95,7 +95,7 @@ const Portfolio = () => {
             </h1>
             <p className="text-xl mb-8 text-gray-300 leading-relaxed">
   <TypewriterEffect 
-    text=" im a web developer who is passionate about creating user-friendly interfaces and efficient backend solutions. Turning ideas into reality through technology and design, one line of code at a time." 
+    text="'Im a web developer who is passionate about creating user-friendly interfaces and efficient backend solutions. Turning ideas into reality through technology and design, one line of code at a time." 
     speed={100} 
   />
 </p>
